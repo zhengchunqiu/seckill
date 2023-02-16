@@ -1,10 +1,6 @@
-### IntelliJ IDEA ###
 .idea/
 target/
-*.iml
-HELP.md
-mvnw
-mvnw.cmd
+*.imi
 
 # Compiled class file
 *.class
